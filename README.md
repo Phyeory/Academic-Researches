@@ -16,3 +16,7 @@ Interested Topics :
 Currently working on...
 
 *Quantum Field Thoery*
+
+# Contents
+
+1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025)
