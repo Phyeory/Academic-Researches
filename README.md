@@ -20,3 +20,4 @@ Currently working on...
 # Contents
 
 1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025)
+2. Astro Pi: Participated in the Astro Pi Challenge 2025 and sent a Raspberry Pi to the ISS with the mission of calculating the speed, utilising OpenCV and mathematics. (Written in Python)
