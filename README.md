@@ -4,6 +4,7 @@ All the papers and essay written throughout my academic journey are documented h
 # About Me
 
 I am a student passionate about Theoretical Physics and Mathematics. My goal is to pursue research in physics and mathematics as my career. 
+Follow my instagram at https://www.instagram.com/phyeory ! I make appealing manim animations :)
 
 - Current Age : 14
 - Number of Essays / Papers Produced : 1
