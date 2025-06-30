@@ -16,7 +16,7 @@ Interested Topics :
 
 Currently working on...
 
-*Quantum Field Thoery*
+*Quantum Field Thoery* and *Lagrangian mechanics motion library*
 
 # Researches - contents folder
 
