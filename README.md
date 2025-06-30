@@ -20,8 +20,8 @@ Currently working on...
 
 # Researches - contents folder
 
-1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025)
-2. Designed and developed a ROI continuous contour detection algorithm for the FTC 2024 - 2025 season, aimed for maximum efficiency and cheap computaional power.
+1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025, won)
+2. Designed and developed a ROI continuous contour detection algorithm for the FTC 2024 - 2025 season and won the national control award at First UK nationals.
 3. Awarded flight status in the Astro Pi Challenge 2025 with the mission of calculating the speed of the ISS via an Raspberry Pi, utilising mathematics.
 
 # Other Contents prduced
