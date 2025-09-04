@@ -7,7 +7,7 @@ I am a student passionate about Theoretical Physics and Mathematics. My goal is 
 Follow my instagram at https://www.instagram.com/phyeory ! I make appealing manim animations :)
 
 - Current Age : 14
-- Number of Essays / Papers Produced : 2
+- Number of Essays / Papers Produced : 3
 
 Interested Topics :
 - Quantum Gravity
@@ -23,6 +23,7 @@ Currently working on...
 1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025, won)
 2. Designed and developed a ROI continuous contour detection algorithm for the FTC 2024 - 2025 season and won the national control award at First UK nationals.
 3. Awarded flight status in the Astro Pi Challenge 2025 with the mission of calculating the speed of the ISS via an Raspberry Pi, utilising mathematics.
+4. Lagrangian mechanics Bezier curve optimizer: Proposed method for robotics trajectory optimisation by optimising control points of bezier curves with according to the lagrangian and constructed repulsive potential function.
 
 # Other Contents prduced
-1. Created an app, aim to make practicing mathematics and physics easier. https://eigenspace.onrender.com
+1. Created an app, aim to make practicing mathematics and physics easier. https://eigenlab.tech
