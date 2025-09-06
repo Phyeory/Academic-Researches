@@ -29,7 +29,7 @@ Currently working on...
 1. Champion of Code Quest 2024 Novice
 2. Ranked 97th out of 1000 in International Math Bowl 2024.
 3. UK Berbras Challenge Gold 2025
-4. Online Intermediate physics challenge by BPHO Gold 2025 January
+4. IPC BPHO Gold 2025 January
 5. Awarded FTC Inspire award runner up and control award at regionals + Qualified for FTC Nationals 2025
 6. Finalist alliance in FTC South east regionals 2025
    
