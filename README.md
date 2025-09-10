@@ -22,8 +22,7 @@ Currently working on...
 
 1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025, won)
 2. Designed and developed a ROI continuous contour detection algorithm for the FTC 2024 - 2025 season and won the national control award at First UK nationals.
-3. Awarded flight status in the Astro Pi Challenge 2025 with the mission of calculating the speed of the ISS via an Raspberry Pi, utilising mathematics.
-4. Lagrangian mechanics Bezier curve optimizer: Proposed method for robotics trajectory optimisation by optimising control points of bezier curves with according to the lagrangian and constructed repulsive potential function.
+3. Lagrangian mechanics Bezier curve optimizer: Proposed method for robotics trajectory optimisation by optimising control points of bezier curves with according to the lagrangian and constructed repulsive potential function.
 
 # Competitions and awards
 1. Champion of Code Quest 2024 Novice
@@ -32,6 +31,7 @@ Currently working on...
 4. IPC BPHO Gold 2025 January
 5. Awarded FTC Inspire award runner up and control award at regionals + Qualified for FTC Nationals 2025
 6. Finalist alliance in FTC South east regionals 2025
+7. Awarded flight status in the Astro Pi Challenge 2025 with the mission of calculating the speed of the ISS via an Raspberry Pi, utilising mathematics.
    
 
 # Other Contents prduced
