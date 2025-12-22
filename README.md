@@ -1,5 +1,5 @@
 # Academic-Researches
-All the papers and essay written throughout my academic journey are documented here!
+All the studies and essay written throughout my academic journey are documented here!
 
 # About Me
 
@@ -13,12 +13,13 @@ Interested Topics :
 - Quantum Gravity
 - Standard Model
 - Quantum Darwinism and einselections
+- Guage theory
 
 Currently working on...
 
 *Quantum Field Thoery* and my own hypothesis : "Decoherence induced spacetime curvature"
 
-# Researches - contents folder
+# Studies - contents folder
 
 1. Quantum Darwinism: An attempted solution to the measurement problem. (written for the Brighton College Science essay competition in May 2025, won)
 2. Designed and developed a ROI continuous contour detection algorithm for the FTC 2024 - 2025 season and won the national control award at First UK nationals.
@@ -36,3 +37,4 @@ Currently working on...
 
 # Other Contents prduced
 1. Created an app, aim to make practicing mathematics and physics easier. https://eigenlab.tech
+2. Hosted a global webinar presenting the Action based Bezier curve optimiser on Jan 18 2026.
