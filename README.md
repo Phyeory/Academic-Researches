@@ -7,7 +7,6 @@ I am a student passionate about Theoretical Physics and Mathematics. My goal is 
 Follow my instagram at https://www.instagram.com/phyeory ! I make appealing manim animations :)
 
 - Current Age : 14
-- Number of Essays / Papers Produced : 3
 
 Interested Topics :
 - Quantum Gravity
